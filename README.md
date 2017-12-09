@@ -1,5 +1,4 @@
 # Chromodynamics-Brighter
- <!-- [![apm](https://img.shields.io/apm/dm/chromodynamics.svg?label=Atom)](https://atom.io/themes/chromodynamics-brighter) -->
 
 
 This is a brighter version of MagicStack's Chromodynamics syntax theme which looks more like traditional Monokai.
